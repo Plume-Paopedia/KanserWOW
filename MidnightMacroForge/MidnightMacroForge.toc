@@ -1,0 +1,11 @@
+## Interface: 120000
+## Title: Midnight Macro Forge
+## Notes: Premium guided macro builder with polished UX and template library.
+## Author: KanserWOW
+## Version: 0.3.0
+## SavedVariables: MidnightMacroForgeDB
+
+Data.lua
+Generator.lua
+UI.lua
+Core.lua
